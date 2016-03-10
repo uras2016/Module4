@@ -1,14 +1,7 @@
+class Point {
+int x1, y1;
 
-import java.util.Scanner;
+Point p= new Point();
 
-class Point{
-double a;
-double b;
 
-a(x1,y1);
-b(x2,y2);
-
-double sqrt(double d)
-
-}
 }
