@@ -1,5 +1,5 @@
 class Point {
-int x1, y1;
+int x, y;
 
 Point p= new Point();
 
