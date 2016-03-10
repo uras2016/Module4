@@ -1,0 +1,14 @@
+
+import java.util.Scanner;
+
+class Point{
+double a;
+double b;
+
+a(x1,y1);
+b(x2,y2);
+
+double sqrt(double d)
+
+}
+}
